@@ -12,5 +12,5 @@ RR(round robin) Scheduling , Small Simulation To The Algorithm using JAVA
 - WaitingTime (all time once it arrival to once it's finished except the execution time)
 - TurnaroundTime (all time once it arrival to once it's finished include the execution time)
 - and finally last two output are the avrage WaitingTime and avrage TurnaroundTime
-- Quantum Time again that`s fixed time that`s a process can be excuted in CPU , 
+- Quantum Time again that is fixed time that a process can be excuted in CPU , 
 then if the process has to take longer time it has to enter several times for give a chance to other processes to excute 
