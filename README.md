@@ -1,7 +1,7 @@
 # RR-Scheduling
 RR(round robin) Scheduling , Small Simulation To The Algorithm using JAVA
 ## Explanation of the algorithm and the code
-- RR most commom algorithm in CPU scheduling 
+- RR most common algorithm in CPU scheduling 
 - RR "round robin" that`s FCFS (First Come First Serivced) algorithm but with maximum time in  CPU Called Quantum Time
 - the code handle almost all cases 
 - the first input are number of processes and the context switching value (that`s Fixed Value , the time that the CPU to take to switch to other process) and Quantum Time value
